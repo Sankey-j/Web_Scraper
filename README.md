@@ -6,7 +6,7 @@ pip -r install requirementst.txt
 
 # Features:
 Multithreaded scanning
-SSL/TLS analysis
+SSL/TLS analysis 
 Security header checks
 Form security analysis
 Sensitive info detection
