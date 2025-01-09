@@ -4,7 +4,7 @@ Only scrape sites you have permission to access.
 # Install required packages:
 pip -r install requirementst.txt
 
-# Features:
+# Features: 
 Multithreaded scanning
 SSL/TLS analysis 
 Security header checks
